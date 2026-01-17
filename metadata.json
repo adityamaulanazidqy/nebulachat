@@ -1,0 +1,5 @@
+{
+  "name": "NebulaChat",
+  "description": "A futuristic, galaxy-themed real-time chat application featuring glassmorphism UI. Powered by Gemini API to simulate an intelligent chat partner in place of a backend.",
+  "requestFramePermissions": []
+}
